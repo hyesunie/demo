@@ -1,6 +1,8 @@
 {
   "users": [
-    { "id": "hyesunie" },
+    { 
+      "id": "hyesunie" 
+    },
     {
       "id": "hello"
     },
