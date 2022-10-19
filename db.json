@@ -1,9 +1,11 @@
-[
-  { "id": "hyesunie" },
-  {
-    "id": "hello"
-  },
-  {
-    "id": "goorm"
-  }
-]
+{
+  "users": [
+    { "id": "hyesunie" },
+    {
+      "id": "hello"
+    },
+    {
+      "id": "goorm"
+    }
+  ]
+}
