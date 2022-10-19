@@ -1,13 +1,7 @@
 {
   "users": [
-    { 
-      "id": "hyesunie" 
-    },
-    {
-      "id": "hello"
-    },
-    {
-      "id": "goorm"
-    }
+    { "id": "hyesunie" },
+    { "id": "hello" },
+    { "id": "goorm" 0}
   ]
 }
