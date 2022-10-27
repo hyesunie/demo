@@ -1,7 +1,7 @@
 {
   "users": [
-    { "id": "hyesunie" },
-    { "id": "hello" },
-    { "id": "goorm" }
+    { "id": "hyesunie", "password":"12345"},
+    { "id": "papajohns","password":"12345"},
+    { "id": "helloWorld" ,"password":"12345"}
   ]
 }
