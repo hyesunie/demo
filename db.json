@@ -5,6 +5,11 @@
     { "id": "helloWorld" ,"password":"12345"}
   ],
   "posts": [
-    {"userId":"hyesunie", title:"첫 포스팅","contents":[  { "insert": 'Hello' }], "tags":["일상", "일기"]}
+    {
+      "userId":"hyesunie", 
+      "title":"첫 포스팅",
+      "contents":[  { "insert": "Hello" }],
+      "tags":["일상", "일기"]
+    }
   ]
 }
