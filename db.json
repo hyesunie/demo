@@ -6,6 +6,7 @@
   ],
   "posts": [
     {
+      "id":"1",
       "userId":"hyesunie", 
       "title":"첫 포스팅",
       "contents":[  { "insert": "Hello" }],
