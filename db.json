@@ -10,6 +10,7 @@
       "userId":"hyesunie", 
       "title":"첫 포스팅",
       "contents":[  { "insert": "Hello" }],
+      "value":"Hello",
       "tags":["일상", "일기"]
     }
   ]
